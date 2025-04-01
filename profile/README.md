@@ -53,12 +53,10 @@ A-RMS는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Sprin
 
 우리 A-RMS 팀은 외부 컨트리뷰션에 관대합니다.<br>
 단, A-RMS 가 지향하는 목적과 부합하는 기술적 활용에 대한 컨트리뷰션이어야 하며,<br>
-A-RMS 팀은 Project Management 의 Scope Creep 을 경계하고 있습니다.
+A-RMS 팀은 Project Management 의 Scope Creep 을 경계하고 있습니다.<br>
+다음으로 컨트리뷰션에 대한 요청을 보내주십시오. 함께하길 희망합니다. ( mailto : 313cokr@gmail.com )
 
-* [💪 Contribution guide](/CONTRIBUTING.md)
-* [🧬 Architecture](/ARCHITECTURE.md)
-* [📜 License](/LICENSE)
-
+<img src=https://github.com/user-attachments/assets/c77df24a-c2b1-44f7-91ff-83774a5112a5>
 
 ## 📜 License
 
