@@ -32,6 +32,8 @@ Docker Swarm 및 Kubernetes 를 기반으로 운영합니다.
 ## 🧬 PLE Architecture
 313DEVGRP 는 PLE 아키텍쳐를 지향합니다. 따라서, 하나의 아키텍쳐와 알고리즘으로 다양한 제품과 솔루션에 대응하는 방법을 고민합니다.
 
+<img src=https://github.com/user-attachments/assets/8f684173-3815-486c-9065-72e74b22c1de>
+
 ## 🧩 Plugins
 
 A-RMS는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Spring 의 경우는 Cloud Framework 의 모든 플러그인을 활용하고 있으며,<br>
