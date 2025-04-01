@@ -32,7 +32,7 @@ Docker Swarm 및 Kubernetes 를 기반으로 운영합니다.
 ## 🧬 PLE Architecture
 313DEVGRP 는 PLE 아키텍쳐를 지향합니다. 따라서, 하나의 아키텍쳐와 알고리즘으로 다양한 제품과 솔루션에 대응하는 방법을 고민합니다.
 
-<img src=https://github.com/user-attachments/assets/8f684173-3815-486c-9065-72e74b22c1de>
+<img src=https://github.com/user-attachments/assets/1f91bc84-95e4-4fbd-be91-e7eed47a59b5>
 
 ## 🧩 Plugins
 
@@ -40,14 +40,7 @@ A-RMS는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Sprin
 추가로 활용되는 Frontend 의 플러그인은 custermize 하여 A-RMS와 integration 합니다.<br>
 아래는 활용되는 오픈소스의 라이선스를 기재하며, 라이선스 요구를 준수하기 위하여 노력합니다.
 
-**📦 Maintained by core team**
-
-* **Core plugins**
-    * [🗃️ Base content <sub>`base`</sub>](/source/plugins/base/README.md)
-    * [🧱 Core <sub>`core`</sub>](/source/plugins/core/README.md)
-* **GitHub plugins**
-    * [🏆 Achievements <sub>`achievements`</sub>](/source/plugins/achievements/README.md)
-    * [📰 Recent activity <sub>`activity`</sub>](/source/plugins/activity/README.md)
+<img src=https://github.com/user-attachments/assets/8f684173-3815-486c-9065-72e74b22c1de>
 
 ## 💪 Contributing
 
