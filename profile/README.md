@@ -42,7 +42,7 @@ A-RMS는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Sprin
 
 다음의 링크를 참조하세요 : [**DEVTOOLS By 313DEVGRP**](https://a-rms.net/arms/template.html?page=community_devtools)
 
-<img src=https://github.com/user-attachments/assets/8f684173-3815-486c-9065-72e74b22c1de>
+<img src=https://github.com/user-attachments/assets/e4f47695-2c5d-4906-8a87-c5b3814909fb>
 
 ## 💪 Contributing
 
